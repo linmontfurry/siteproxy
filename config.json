@@ -1,5 +1,5 @@
 {
-  "proxy_url": "https://siteproxy-5xhq2dqqay.edgeone.app",
+  "proxy_url": "https://siteproxy.edgeone.app/",
   "token_prefix": "/zezhiya/",
   "local_listen_port": 80,
   "description": "注意:token_prefix相当于网站密码，请谨慎设置。 proxy_url和token_prefix合起来就是访问网址。"
